@@ -89,9 +89,9 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+GEO5Knwso_8zOTRl')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/MN_MoviesZ')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Kannada_Cinema_World')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+j5n3Py0pQ7o2ZjFl') # Support Chat Link Without https:// or @
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/Kannada_Cinema_World1')
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/Kannada_Cinema_World')
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True))
