@@ -111,7 +111,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 <b>ɴᴏᴛᴇ:</b>
  <b>✯ Maintained by : <a href={}>Owner</a></b>
   
- <b>✯ Join here : <a href={}>https://t.me/+zfC7qxGkAAI1ZDM9</a></b> 
+ <b>✯ Join here : <a href={}>https://t.me/KCW_Request_group</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
